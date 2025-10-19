@@ -13,3 +13,4 @@ This script switches the current user to the user `betty`.
 5-execute: adds execute permission to the owner of the file 'hello'
 6-multiple_permissions: adds execute permission to owner and group, and read permission to others for the file 'hello'
 7-everybody: adds execute permission to owner, group, and others for the file 'hello'
+8-James_Bond: sets permissions of file 'hello' so owner and group have none, others have all
