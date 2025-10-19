@@ -8,3 +8,4 @@ This script switches the current user to the user `betty`.
 2-groups: prints all the groups the current user is part of
 3-new_owner: changes the owner of the file 'hello' to the user 'betty'
 3-new_owner: changes the owner of the file 'hello' to the user 'betty'
+3-new_owner: changes the owner of the file 'hello' to the user 'betty'
