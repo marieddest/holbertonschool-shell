@@ -15,3 +15,4 @@ This script switches the current user to the user `betty`.
 7-everybody: adds execute permission to owner, group, and others for the file 'hello'
 8-James_Bond: sets permissions of file 'hello' so owner and group have none, others have all
 9-John_Doe: sets permissions of file 'hello' to -rwxr-x-wx (owner: rwx, group: r-x, others: -wx)
+10-mirror_permissions: sets the mode of 'hello' to be the same as 'olleh'
