@@ -17,3 +17,4 @@ This script switches the current user to the user `betty`.
 9-John_Doe: sets permissions of file 'hello' to -rwxr-x-wx (owner: rwx, group: r-x, others: -wx)
 10-mirror_permissions: sets the mode of 'hello' to be the same as 'olleh'
 11-directories_permissions: adds execute permission to all subdirectories of the current directory for owner, group, and others (regular files unchanged)
+12-directory_permissions: creates a directory called 'my_dir' with permissions 751 in the working directory
