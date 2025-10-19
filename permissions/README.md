@@ -18,3 +18,4 @@ This script switches the current user to the user `betty`.
 10-mirror_permissions: sets the mode of 'hello' to be the same as 'olleh'
 11-directories_permissions: adds execute permission to all subdirectories of the current directory for owner, group, and others (regular files unchanged)
 12-directory_permissions: creates a directory called 'my_dir' with permissions 751 in the working directory
+13-change_group: changes the group owner of the file 'hello' to 'school'
